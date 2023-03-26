@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tugas 1 Progmob</string>
+    <string name="perhitungan_luas_segitiga"><b>Perhitungan Luas dan Keliling Segitiga</b></string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hasil">Hasil</string>
+    <string name="hitung">Hitung</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="keliling">Keliling:</string>
+    <string name="kembali">Kembali</string>
+    <string name="perhitungan_luas_dan_keliling_persegi"><b>Perhitungan Luas dan Keliling Persegi Panjang </b></string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="perhitungan_luas_dan_keliling_persegiii"><b>Perhitungan Luas dan Keliling Persegi</b></string>
+    <string name="sisi">Sisi</string>
+    <string name="perhitungan_luas_dan_keliling_lingkaran"><b>Perhitungan Luas dan Keliling Lingkaran</b></string>
+    <string name="jari_jari">Jari-jari</string>
+    <string name="perhitungan_luas_dan_keliling_bangun_datar"><b>Perhitungan Luas dan Keliling Bangun Datar</b></string>
+    <string name="namaa">Tugas 1 Pemrograman Mobile</string>
+</resources>
